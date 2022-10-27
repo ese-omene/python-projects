@@ -4,7 +4,7 @@ from datetime import datetime
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
-API_KEY = "f8503fcd89b993216a45165f67c43073"
+API_KEY = input('Enter your API key: ')
 
 city = input("Enter city name: ")
 
