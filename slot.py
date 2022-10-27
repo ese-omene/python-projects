@@ -22,7 +22,6 @@ def deposit():
             print("please enter a number") # get the user to enter a number
     return amount #return the amount the user is depositting
 
-
 #get the number of lines the user would like to bet on
 def get_line_bet():
     while True:
